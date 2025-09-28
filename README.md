@@ -21,3 +21,5 @@ Tkinter GUI with live video feed, status panel, and log window.
 <img width="1125" height="1071" alt="image" src="https://github.com/user-attachments/assets/43189b47-324e-45ef-b063-7a126eaa6298" />
 
 <img width="1123" height="1071" alt="image" src="https://github.com/user-attachments/assets/a7c16dfa-62f8-41a6-89b0-82cf488b46ae" />
+
+<img width="1125" height="1071" alt="image" src="https://github.com/user-attachments/assets/961a6548-56df-4f17-af9b-ca2f2124d3e5" />

